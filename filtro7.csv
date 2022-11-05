@@ -1,0 +1,64 @@
+region,code,name,continent,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Southern and Central Asia,AFG,Afghanistan,Asia,652090.0,1919.0,22720000,45.9,5976.0,,Afganistan/Afqanestan,Islamic Emirate,Mohammad Omar,1.0,AF
+Central Africa,AGO,Angola,Africa,1246700.0,1975.0,12878000,38.3,6648.0,7984.0,Angola,Republic,Jose Eduardo dos Santos,56.0,AO
+Australia and New Zealand,AuS,Australia,Oceania,7741220.0,1901.0,18886000,79.8,351182.0,392911.0,Australia,"Constitutional Monarchy, Federation",Elisabeth II,135.0,Au
+Western Europe,AuT,Austria,Europe,83859.0,1918.0,8091800,77.7,211860.0,206025.0,osterreich,Federal Republic,Thomas Klestil,1523.0,AT
+Middle East,AZE,Azerbaijan,Asia,86600.0,1991.0,7734000,62.9,4127.0,4100.0,Azarbaycan,Federal Republic,Heydar aliyev,144.0,AZ
+Western Africa,BFA,Burkina Faso,Africa,274000.0,1960.0,11937000,46.7,2425.0,2201.0,Burkina Faso,Republic,Blaise Compaore,549.0,BF
+Southern and Central Asia,BGD,Bangladesh,Asia,143998.0,1971.0,129155000,60.2,32852.0,31966.0,Bangladesh,Republic,Shahabuddin Ahmad,150.0,BD
+Eastern Europe,BGR,Bulgaria,Europe,110994.0,1908.0,8190900,70.9,12178.0,10169.0,Balgarija,Republic,Petar Stojanov,539.0,BG
+Eastern Europe,BLR,Belarus,Europe,207600.0,1991.0,10236000,68.0,13714.0,,Belarus,Republic,Aljaksandr LukaSenka,3520.0,BY
+Western Africa,CIV,Cote dIvoire,Africa,322463.0,1960.0,14786000,45.2,11345.0,10285.0,Cote dIvoire,Republic,Laurent Gbagbo,2814.0,CI
+Central Africa,CMR,Cameroon,Africa,475442.0,1960.0,15085000,54.8,9174.0,8596.0,Cameroun/Cameroon,Republic,Paul Biya,1804.0,CM
+Central Africa,COD,"Congo, The Democratic Republic of the",Africa,2344858.0,1960.0,51654000,48.8,6964.0,2474.0,Republique Democratique du Congo,Republic,Joseph Kabila,2298.0,CD
+Caribbean,CuB,Cuba,North America,110861.0,1902.0,11201000,76.2,17843.0,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413.0,Cu
+Eastern Europe,CZE,Czech Republic,Europe,78866.0,1993.0,10278100,74.5,55017.0,52037.0,esko,Republic,Vaclav Havel,3339.0,CZ
+Western Europe,DEu,Germany,Europe,357022.0,1955.0,82164700,77.4,2133367.0,2102826.0,Deutschland,Federal Republic,Johannes Rau,3068.0,DE
+Northern Africa,DZA,Algeria,Africa,2381741.0,1962.0,31471000,69.7,49982.0,46966.0,Al-Jazair/Algerie,Republic,Abdelaziz Bouteflika,35.0,DZ
+Northern Africa,EGY,Egypt,Africa,1001449.0,1922.0,68470000,63.3,82710.0,75617.0,Misr,Republic,Hosni Mubarak,608.0,EG
+Western Africa,GHA,Ghana,Africa,238533.0,1957.0,20212000,57.4,7137.0,6884.0,Ghana,Republic,John Kufuor,910.0,GH
+Western Africa,GIN,Guinea,Africa,245857.0,1958.0,7430000,45.6,2352.0,2383.0,Guinee,Republic,Lansana Conte,926.0,GN
+Eastern Europe,HuN,Hungary,Europe,93030.0,1918.0,10043200,71.4,48267.0,45914.0,Magyarorszag,Republic,Ferenc Madl,3483.0,Hu
+Southeast Asia,IDN,Indonesia,Asia,1904569.0,1945.0,212107000,68.0,84982.0,215002.0,Indonesia,Republic,Abdurrahman Wahid,939.0,ID
+Southern and Central Asia,IND,India,Asia,3287263.0,1947.0,1013662000,62.5,447114.0,430572.0,Bharat/India,Federal Republic,Kocheril Raman Narayanan,1109.0,IN
+Southern and Central Asia,IRN,Iran,Asia,1648195.0,1906.0,67702000,69.7,195746.0,160151.0,Iran,Islamic Republic,Ali Mohammad Khatami-Ardakani,1380.0,IR
+Middle East,IRQ,Iraq,Asia,438317.0,1932.0,23115000,66.5,11500.0,,Al- Iraq,Republic,Saddam Hussein al-Takriti,1365.0,IQ
+Southern and Central Asia,KAZ,Kazakstan,Asia,2724900.0,1991.0,16223000,63.2,24375.0,23383.0,Qazaqstan,Republic,Nursultan Nazarbajev,1864.0,KZ
+Eastern Africa,KEN,Kenya,Africa,580367.0,1963.0,30080000,48.0,9217.0,10241.0,Kenya,Republic,Daniel arap Moi,1881.0,KE
+Southeast Asia,KHM,Cambodia,Asia,181035.0,1953.0,11168000,56.5,5121.0,5670.0,Kampuchea,Constitutional Monarchy,Norodom Sihanouk,1800.0,KH
+Eastern Asia,KOR,South Korea,Asia,99434.0,1948.0,46844000,74.4,320749.0,442544.0,Taehan Minguk (Namhan),Republic,Kim Dae-jung,2331.0,KR
+Southern and Central Asia,LKA,Sri Lanka,Asia,65610.0,1948.0,18827000,71.8,15706.0,15091.0,Sri Lanka/Ilankai,Republic,Chandrika Kumaratunga,3217.0,LK
+Northern Africa,MAR,Morocco,Africa,446550.0,1956.0,28351000,69.1,36124.0,33514.0,Al-Maghrib,Constitutional Monarchy,Mohammed VI,2486.0,MA
+Eastern Africa,MDG,Madagascar,Africa,587041.0,1960.0,15942000,55.0,3750.0,3545.0,Madagasikara/Madagascar,Federal Republic,Didier Ratsiraka,2455.0,MG
+Western Africa,MLI,Mali,Africa,1240192.0,1960.0,11234000,46.7,2642.0,2453.0,Mali,Republic,Alpha Oumar Konare,2482.0,ML
+Southeast Asia,MMR,Myanmar,Asia,676578.0,1948.0,45611000,54.9,180375.0,171028.0,Myanma Pye,Republic,kenraali Than Shwe,2710.0,MM
+Eastern Africa,MOZ,Mozambique,Africa,801590.0,1975.0,19680000,37.5,2891.0,2711.0,Mocambique,Republic,JoaquIm A. Chissano,2698.0,MZ
+Eastern Africa,MWI,Malawi,Africa,118484.0,1964.0,10925000,37.6,1687.0,2527.0,Malawi,Republic,Bakili Muluzi,2462.0,MW
+Southeast Asia,MYS,Malaysia,Asia,329758.0,1957.0,22244000,70.8,69213.0,97884.0,Malaysia,"Constitutional Monarchy, Federation",Salahuddin Abdul Aziz Shah Alhaj,2464.0,MY
+Western Africa,NER,Niger,Africa,1267000.0,1960.0,10730000,41.3,1706.0,1580.0,Niger,Republic,Mamadou Tandja,2738.0,NE
+Western Africa,NGA,Nigeria,Africa,923768.0,1960.0,111506000,51.6,65707.0,58623.0,Nigeria,Federal Republic,Olusegun Obasanjo,2754.0,NG
+Southern and Central Asia,PAK,Pakistan,Asia,796095.0,1947.0,156483000,61.1,61289.0,58549.0,Pakistan,Republic,Mohammad Rafiq Tarar,2831.0,PK
+Southeast Asia,PHL,Philippines,Asia,300000.0,1946.0,75967000,67.5,65107.0,82239.0,Pilipinas,Republic,Gloria Macapagal-Arroyo,766.0,PH
+Eastern Europe,POL,Poland,Europe,323250.0,1918.0,38653600,73.2,151697.0,135636.0,Polska,Republic,Aleksander Kwasniewski,2928.0,PL
+Eastern Asia,PRK,North Korea,Asia,120538.0,1948.0,24039000,70.7,5332.0,,Choson Minjujuui In min Konghwaguk (Bukhan),Socialistic Republic,Kim Jong-il,2318.0,KP
+Eastern Europe,RuS,Russian Federation,Europe,17075400.0,1991.0,146934000,67.2,276608.0,442989.0,Rossija,Federal Republic,Vladimir Putin,3580.0,Ru
+Eastern Africa,RWA,Rwanda,Africa,26338.0,1962.0,7733000,39.3,2036.0,1863.0,Rwanda/urwanda,Republic,Paul Kagame,3047.0,RW
+Middle East,SAu,Saudi Arabia,Asia,2149690.0,1932.0,21607000,67.8,137635.0,146171.0,Al- Arabiya as-Sa udiya,Monarchy,Fahd ibn Abdul-Aziz al-Sa ud,3173.0,SA
+Northern Africa,SDN,Sudan,Africa,2505813.0,1956.0,29490000,56.6,10162.0,,As-Sudan,Islamic Republic,Omar Hassan Ahmad al-Bashir,3225.0,SD
+Western Africa,SEN,Senegal,Africa,196722.0,1960.0,9481000,62.2,4787.0,4542.0,Senegal/Sounougal,Republic,Abdoulaye Wade,3198.0,SN
+Eastern Africa,SOM,Somalia,Africa,637657.0,1960.0,10097000,46.2,935.0,,Soomaaliya,Republic,Abdiqassim Salad Hassan,3214.0,SO
+Middle East,SYR,Syria,Asia,185180.0,1941.0,16125000,68.5,65984.0,64926.0,Suriya,Republic,Bashar al-Assad,3250.0,SY
+Central Africa,TCD,Chad,Africa,1284000.0,1960.0,7651000,50.5,1208.0,1102.0,Tchad/Tshad,Republic,Idriss Deby,3337.0,TD
+Northern Africa,TuN,Tunisia,Africa,163610.0,1956.0,9586000,73.7,20026.0,18898.0,Tunis/Tunisie,Republic,Zine al-Abidine Ben Ali,3349.0,TN
+Middle East,TuR,Turkey,Asia,774815.0,1923.0,66591000,71.0,210721.0,189122.0,Turkiye,Republic,Ahmet Necdet Sezer,3358.0,TR
+Eastern Asia,TWN,Taiwan,Asia,36188.0,1945.0,22256000,76.4,256254.0,263451.0,Tai-wan,Republic,Chen Shui-bian,3263.0,TW
+Eastern Africa,TZA,Tanzania,Africa,883749.0,1961.0,33517000,52.3,8005.0,7388.0,Tanzania,Republic,Benjamin William Mkapa,3306.0,TZ
+Eastern Africa,uGA,uganda,Africa,241038.0,1962.0,21778000,42.9,6313.0,6887.0,uganda,Republic,Yoweri Museveni,3425.0,uG
+Eastern Europe,uKR,ukraine,Europe,603700.0,1991.0,50456000,66.0,42168.0,49677.0,ukrajina,Republic,Leonid KutSma,3426.0,uA
+Southern and Central Asia,uZB,uzbekistan,Asia,447400.0,1991.0,24318000,63.7,14194.0,21300.0,uzbekiston,Republic,Islam Karimov,3503.0,uZ
+Southeast Asia,VNM,Vietnam,Asia,331689.0,1945.0,79832000,69.3,21929.0,22834.0,Viet Nam,Socialistic Republic,Tran Duc Luong,3770.0,VN
+Middle East,YEM,Yemen,Asia,527968.0,1918.0,18112000,59.8,6041.0,5729.0,Al-Yaman,Republic,Ali Abdallah Salih,1780.0,YE
+Southern Europe,YuG,Yugoslavia,Europe,102173.0,1918.0,10640000,72.4,17000.0,,Jugoslavija,Federal Republic,Vojislav KoStunica,1792.0,Yu
+Southern Africa,ZAF,South Africa,Africa,1221037.0,1910.0,40377000,51.1,116729.0,129092.0,South Africa,Republic,Thabo Mbeki,716.0,ZA
+Eastern Africa,ZMB,Zambia,Africa,752618.0,1964.0,9169000,37.2,3377.0,3922.0,Zambia,Republic,Frederick Chiluba,3162.0,ZM
+Eastern Africa,ZWE,Zimbabwe,Africa,390757.0,1980.0,11669000,37.8,5951.0,8670.0,Zimbabwe,Republic,Robert G. Mugabe,4068.0,ZW

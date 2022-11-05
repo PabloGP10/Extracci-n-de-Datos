@@ -1,0 +1,240 @@
+,name,region,life_expectancy
+0,Aruba,Caribbean,78.4
+1,Afghanistan,Southern and Central Asia,45.9
+2,Angola,Central Africa,38.3
+3,Anguilla,Caribbean,76.1
+4,Albania,Southern Europe,71.6
+5,Andorra,Southern Europe,83.5
+6,Netherlands Antilles,Caribbean,74.7
+7,united Arab Emirates,Middle East,74.1
+8,Argentina,South America,75.1
+9,Armenia,Middle East,66.4
+10,American Samoa,Polynesia,75.1
+11,Antarctica,Antarctica,
+12,French Southern territories,Antarctica,
+13,Antigua and Barbuda,Caribbean,70.5
+14,Australia,Australia and New Zealand,79.8
+15,Austria,Western Europe,77.7
+16,Azerbaijan,Middle East,62.9
+17,Burundi,Eastern Africa,46.2
+18,Belgium,Western Europe,77.8
+19,Benin,Western Africa,50.2
+20,Burkina Faso,Western Africa,46.7
+21,Bangladesh,Southern and Central Asia,60.2
+22,Bulgaria,Eastern Europe,70.9
+23,Bahrain,Middle East,73.0
+24,Bahamas,Caribbean,71.1
+25,Bosnia and Herzegovina,Southern Europe,71.5
+26,Belarus,Eastern Europe,68.0
+27,Belize,Central America,70.9
+28,Bermuda,North America,76.9
+29,Bolivia,South America,63.7
+30,Brazil,South America,62.9
+31,Barbados,Caribbean,73.0
+32,Brunei,Southeast Asia,73.6
+33,Bhutan,Southern and Central Asia,52.4
+34,Bouvet Island,Antarctica,
+35,Botswana,Southern Africa,39.3
+36,Central African Republic,Central Africa,44.0
+37,Canada,North America,79.4
+38,Cocos (Keeling) Islands,Australia and New Zealand,
+39,Switzerland,Western Europe,79.6
+40,Chile,South America,75.7
+41,China,Eastern Asia,71.4
+42,Cote dIvoire,Western Africa,45.2
+43,Cameroon,Central Africa,54.8
+44,"Congo, The Democratic Republic of the",Central Africa,48.8
+45,Congo,Central Africa,47.4
+46,Cook Islands,Polynesia,71.1
+47,Colombia,South America,70.3
+48,Comoros,Eastern Africa,60.0
+49,Cape Verde,Western Africa,68.9
+50,Costa Rica,Central America,75.8
+51,Cuba,Caribbean,76.2
+52,Christmas Island,Australia and New Zealand,
+53,Cayman Islands,Caribbean,78.9
+54,Cyprus,Middle East,76.7
+55,Czech Republic,Eastern Europe,74.5
+56,Germany,Western Europe,77.4
+57,Djibouti,Eastern Africa,50.8
+58,Dominica,Caribbean,73.4
+59,Denmark,Nordic Countries,76.5
+60,Dominican Republic,Caribbean,73.2
+61,Algeria,Northern Africa,69.7
+62,Ecuador,South America,71.1
+63,Egypt,Northern Africa,63.3
+64,Eritrea,Eastern Africa,55.8
+65,Western Sahara,Northern Africa,49.8
+66,Spain,Southern Europe,78.8
+67,Estonia,Baltic Countries,69.5
+68,Ethiopia,Eastern Africa,45.2
+69,Finland,Nordic Countries,77.4
+70,Fiji Islands,Melanesia,67.9
+71,Falkland Islands,South America,
+72,France,Western Europe,78.8
+73,Faroe Islands,Nordic Countries,78.4
+74,"Micronesia, Federated States of",Micronesia,68.6
+75,Gabon,Central Africa,50.1
+76,united Kingdom,British Islands,77.7
+77,Georgia,Middle East,64.5
+78,Ghana,Western Africa,57.4
+79,Gibraltar,Southern Europe,79.0
+80,Guinea,Western Africa,45.6
+81,Guadeloupe,Caribbean,77.0
+82,Gambia,Western Africa,53.2
+83,Guinea-Bissau,Western Africa,49.0
+84,Equatorial Guinea,Central Africa,53.6
+85,Greece,Southern Europe,78.4
+86,Grenada,Caribbean,64.5
+87,Greenland,North America,68.1
+88,Guatemala,Central America,66.2
+89,French Guiana,South America,76.1
+90,Guam,Micronesia,77.8
+91,Guyana,South America,64.0
+92,Hong Kong,Eastern Asia,79.5
+93,Heard Island and McDonald Islands,Antarctica,
+94,Honduras,Central America,69.9
+95,Croatia,Southern Europe,73.7
+96,Haiti,Caribbean,49.2
+97,Hungary,Eastern Europe,71.4
+98,Indonesia,Southeast Asia,68.0
+99,India,Southern and Central Asia,62.5
+100,British Indian Ocean Territory,Eastern Africa,
+101,Ireland,British Islands,76.8
+102,Iran,Southern and Central Asia,69.7
+103,Iraq,Middle East,66.5
+104,Iceland,Nordic Countries,79.4
+105,Israel,Middle East,78.6
+106,Italy,Southern Europe,79.0
+107,Jamaica,Caribbean,75.2
+108,Jordan,Middle East,77.4
+109,Japan,Eastern Asia,80.7
+110,Kazakstan,Southern and Central Asia,63.2
+111,Kenya,Eastern Africa,48.0
+112,Kyrgyzstan,Southern and Central Asia,63.4
+113,Cambodia,Southeast Asia,56.5
+114,Kiribati,Micronesia,59.8
+115,Saint Kitts and Nevis,Caribbean,70.7
+116,South Korea,Eastern Asia,74.4
+117,Kuwait,Middle East,76.1
+118,Laos,Southeast Asia,53.1
+119,Lebanon,Middle East,71.3
+120,Liberia,Western Africa,51.0
+121,Libyan Arab Jamahiriya,Northern Africa,75.5
+122,Saint Lucia,Caribbean,72.3
+123,Liechtenstein,Western Europe,78.8
+124,Sri Lanka,Southern and Central Asia,71.8
+125,Lesotho,Southern Africa,50.8
+126,Lithuania,Baltic Countries,69.1
+127,Luxembourg,Western Europe,77.1
+128,Latvia,Baltic Countries,68.4
+129,Macao,Eastern Asia,81.6
+130,Morocco,Northern Africa,69.1
+131,Monaco,Western Europe,78.8
+132,Moldova,Eastern Europe,64.5
+133,Madagascar,Eastern Africa,55.0
+134,Maldives,Southern and Central Asia,62.2
+135,Mexico,Central America,71.5
+136,Marshall Islands,Micronesia,65.5
+137,Macedonia,Southern Europe,73.8
+138,Mali,Western Africa,46.7
+139,Malta,Southern Europe,77.9
+140,Myanmar,Southeast Asia,54.9
+141,Mongolia,Eastern Asia,67.3
+142,Northern Mariana Islands,Micronesia,75.5
+143,Mozambique,Eastern Africa,37.5
+144,Mauritania,Western Africa,50.8
+145,Montserrat,Caribbean,78.0
+146,Martinique,Caribbean,78.3
+147,Mauritius,Eastern Africa,71.0
+148,Malawi,Eastern Africa,37.6
+149,Malaysia,Southeast Asia,70.8
+150,Mayotte,Eastern Africa,59.5
+151,Namibia,Southern Africa,42.5
+152,New Caledonia,Melanesia,72.8
+153,Niger,Western Africa,41.3
+154,Norfolk Island,Australia and New Zealand,
+155,Nigeria,Western Africa,51.6
+156,Nicaragua,Central America,68.7
+157,Niue,Polynesia,
+158,Netherlands,Western Europe,78.3
+159,Norway,Nordic Countries,78.7
+160,Nepal,Southern and Central Asia,57.8
+161,Nauru,Micronesia,60.8
+162,New Zealand,Australia and New Zealand,77.8
+163,Oman,Middle East,71.8
+164,Pakistan,Southern and Central Asia,61.1
+165,Panama,Central America,75.5
+166,Pitcairn,Polynesia,
+167,Peru,South America,70.0
+168,Philippines,Southeast Asia,67.5
+169,Palau,Micronesia,68.6
+170,Papua New Guinea,Melanesia,63.1
+171,Poland,Eastern Europe,73.2
+172,Puerto Rico,Caribbean,75.6
+173,North Korea,Eastern Asia,70.7
+174,Portugal,Southern Europe,75.8
+175,Paraguay,South America,73.7
+176,Palestine,Middle East,71.4
+177,French Polynesia,Polynesia,74.8
+178,Qatar,Middle East,72.4
+179,Reunion,Eastern Africa,72.7
+180,Romania,Eastern Europe,69.9
+181,Russian Federation,Eastern Europe,67.2
+182,Rwanda,Eastern Africa,39.3
+183,Saudi Arabia,Middle East,67.8
+184,Sudan,Northern Africa,56.6
+185,Senegal,Western Africa,62.2
+186,Singapore,Southeast Asia,80.1
+187,South Georgia and the South Sandwich Islands,Antarctica,
+188,Saint Helena,Western Africa,76.8
+189,Svalbard and Jan Mayen,Nordic Countries,
+190,Solomon Islands,Melanesia,71.3
+191,Sierra Leone,Western Africa,45.3
+192,El Salvador,Central America,69.7
+193,San Marino,Southern Europe,81.1
+194,Somalia,Eastern Africa,46.2
+195,Saint Pierre and Miquelon,North America,77.6
+196,Sao Tome and Principe,Central Africa,65.3
+197,Suriname,South America,71.4
+198,Slovakia,Eastern Europe,73.7
+199,Slovenia,Southern Europe,74.9
+200,Sweden,Nordic Countries,79.6
+201,Swaziland,Southern Africa,40.4
+202,Seychelles,Eastern Africa,70.4
+203,Syria,Middle East,68.5
+204,Turks and Caicos Islands,Caribbean,73.3
+205,Chad,Central Africa,50.5
+206,Togo,Western Africa,54.7
+207,Thailand,Southeast Asia,68.6
+208,Tajikistan,Southern and Central Asia,64.1
+209,Tokelau,Polynesia,
+210,Turkmenistan,Southern and Central Asia,60.9
+211,East Timor,Southeast Asia,46.0
+212,Tonga,Polynesia,67.9
+213,Trinidad and Tobago,Caribbean,68.0
+214,Tunisia,Northern Africa,73.7
+215,Turkey,Middle East,71.0
+216,Tuvalu,Polynesia,66.3
+217,Taiwan,Eastern Asia,76.4
+218,Tanzania,Eastern Africa,52.3
+219,uganda,Eastern Africa,42.9
+220,ukraine,Eastern Europe,66.0
+221,united States Minor Outlying Islands,Micronesia/Caribbean,
+222,uruguay,South America,75.2
+223,united States,North America,77.1
+224,uzbekistan,Southern and Central Asia,63.7
+225,Holy See (Vatican City State),Southern Europe,
+226,Saint Vincent and the Grenadines,Caribbean,72.3
+227,Venezuela,South America,73.1
+228,"Virgin Islands, British",Caribbean,75.4
+229,"Virgin Islands, u.S.",Caribbean,78.1
+230,Vietnam,Southeast Asia,69.3
+231,Vanuatu,Melanesia,60.6
+232,Wallis and Futuna,Polynesia,
+233,Samoa,Polynesia,69.2
+234,Yemen,Middle East,59.8
+235,Yugoslavia,Southern Europe,72.4
+236,South Africa,Southern Africa,51.1
+237,Zambia,Eastern Africa,37.2
+238,Zimbabwe,Eastern Africa,37.8

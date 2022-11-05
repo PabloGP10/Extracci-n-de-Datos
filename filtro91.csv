@@ -1,0 +1,79 @@
+region,code,name,continent,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Southern and Central Asia,AFG,Afghanistan,Asia,652090.0,1919.0,22720000,45.9,5976.0,,Afganistan/Afqanestan,Islamic Emirate,Mohammad Omar,1.0,AF
+Southern Europe,ALB,Albania,Europe,28748.0,1912.0,3401200,71.6,3205.0,2500.0,Shqiperia,Republic,Rexhep Mejdani,34.0,AL
+South America,ARG,Argentina,South America,2780400.0,1816.0,37032000,75.1,340238.0,323310.0,Argentina,Federal Republic,Fernando de la Rua,69.0,AR
+Australia and New Zealand,AuS,Australia,Oceania,7741220.0,1901.0,18886000,79.8,351182.0,392911.0,Australia,"Constitutional Monarchy, Federation",Elisabeth II,135.0,Au
+Western Europe,AuT,Austria,Europe,83859.0,1918.0,8091800,77.7,211860.0,206025.0,osterreich,Federal Republic,Thomas Klestil,1523.0,AT
+Western Europe,BEL,Belgium,Europe,30518.0,1830.0,10239000,77.8,249704.0,243948.0,Belgie/Belgique,"Constitutional Monarchy, Federation",Albert II,179.0,BE
+Eastern Europe,BGR,Bulgaria,Europe,110994.0,1908.0,8190900,70.9,12178.0,10169.0,Balgarija,Republic,Petar Stojanov,539.0,BG
+South America,BOL,Bolivia,South America,1098581.0,1825.0,8329000,63.7,8571.0,7967.0,Bolivia,Republic,Hugo Banzer Suarez,194.0,BO
+South America,BRA,Brazil,South America,8547403.0,1822.0,170115000,62.9,776739.0,804108.0,Brasil,Federal Republic,Fernando Henrique Cardoso,211.0,BR
+Southern and Central Asia,BTN,Bhutan,Asia,47000.0,1910.0,2124000,52.4,372.0,383.0,Druk-Yul,Monarchy,Jigme Singye Wangchuk,192.0,BT
+North America,CAN,Canada,North America,9970610.0,1867.0,31147000,79.4,598862.0,625626.0,Canada,"Constitutional Monarchy, Federation",Elisabeth II,1822.0,CA
+Western Europe,CHE,Switzerland,Europe,41284.0,1499.0,7160400,79.6,264478.0,256092.0,Schweiz/Suisse/Svizzera/Svizra,Federation,Adolf Ogi,3248.0,CH
+South America,CHL,Chile,South America,756626.0,1810.0,15211000,75.7,72949.0,75780.0,Chile,Republic,Ricardo Lagos Escobar,554.0,CL
+Eastern Asia,CHN,China,Asia,9572900.0,-1523.0,1277558000,71.4,982268.0,917719.0,Zhongquo,People'sRepublic,Jiang Zemin,1891.0,CN
+South America,COL,Colombia,South America,1138914.0,1810.0,42321000,70.3,102896.0,105116.0,Colombia,Republic,Andres Pastrana Arango,2257.0,CO
+Central America,CRI,Costa Rica,North America,51100.0,1821.0,4023000,75.8,10226.0,9757.0,Costa Rica,Republic,Miguel angel RodrIguez EcheverrIa,584.0,CR
+Caribbean,CuB,Cuba,North America,110861.0,1902.0,11201000,76.2,17843.0,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413.0,Cu
+Nordic Countries,DNK,Denmark,Europe,43094.0,800.0,5330000,76.5,174099.0,169264.0,Danmark,Constitutional Monarchy,Margrethe II,3315.0,DK
+Caribbean,DOM,Dominican Republic,North America,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+South America,ECu,Ecuador,South America,283561.0,1822.0,12646000,71.1,19770.0,19769.0,Ecuador,Republic,Gustavo Noboa Bejarano,594.0,EC
+Northern Africa,EGY,Egypt,Africa,1001449.0,1922.0,68470000,63.3,82710.0,75617.0,Misr,Republic,Hosni Mubarak,608.0,EG
+Southern Europe,ESP,Spain,Europe,505992.0,1492.0,39441700,78.8,553233.0,532031.0,Espana,Constitutional Monarchy,Juan Carlos I,653.0,ES
+Eastern Africa,ETH,Ethiopia,Africa,1104300.0,-1000.0,62565000,45.2,6353.0,6180.0,YeItyop iya,Republic,Negasso Gidada,756.0,ET
+Nordic Countries,FIN,Finland,Europe,338145.0,1917.0,5171300,77.4,121914.0,119833.0,Suomi,Republic,Tarja Halonen,3236.0,FI
+Western Europe,FRA,France,Europe,551500.0,843.0,59225700,78.8,1424285.0,1392448.0,France,Republic,Jacques Chirac,2974.0,FR
+British Islands,GBR,united Kingdom,Europe,242900.0,1066.0,59623400,77.7,1378330.0,1296830.0,united Kingdom,Constitutional Monarchy,Elisabeth II,456.0,GB
+Southern Europe,GRC,Greece,Europe,131626.0,1830.0,10545700,78.4,120724.0,119946.0,Ellada,Republic,Kostis Stefanopoulos,2401.0,GR
+Central America,GTM,Guatemala,North America,108889.0,1821.0,11385000,66.2,19008.0,17797.0,Guatemala,Republic,Alfonso Portillo Cabrera,922.0,GT
+Eastern Asia,HKG,Hong Kong,Asia,1075.0,,6782000,79.5,166448.0,173610.0,Xianggang/Hong Kong,Special Administrative Region of China,Jiang Zemin,937.0,HK
+Central America,HND,Honduras,North America,112088.0,1838.0,6485000,69.9,5333.0,4697.0,Honduras,Republic,Carlos Roberto Flores Facusse,933.0,HN
+Caribbean,HTI,Haiti,North America,27750.0,1804.0,8222000,49.2,3459.0,3107.0,Haiti/Dayti,Republic,Jean-Bertrand Aristide,929.0,HT
+Eastern Europe,HuN,Hungary,Europe,93030.0,1918.0,10043200,71.4,48267.0,45914.0,Magyarorszag,Republic,Ferenc Madl,3483.0,Hu
+Southeast Asia,IDN,Indonesia,Asia,1904569.0,1945.0,212107000,68.0,84982.0,215002.0,Indonesia,Republic,Abdurrahman Wahid,939.0,ID
+Southern and Central Asia,IND,India,Asia,3287263.0,1947.0,1013662000,62.5,447114.0,430572.0,Bharat/India,Federal Republic,Kocheril Raman Narayanan,1109.0,IN
+British Islands,IRL,Ireland,Europe,70273.0,1921.0,3775100,76.8,75921.0,73132.0,Ireland/eire,Republic,Mary McAleese,1447.0,IE
+Southern and Central Asia,IRN,Iran,Asia,1648195.0,1906.0,67702000,69.7,195746.0,160151.0,Iran,Islamic Republic,Ali Mohammad Khatami-Ardakani,1380.0,IR
+Middle East,IRQ,Iraq,Asia,438317.0,1932.0,23115000,66.5,11500.0,,Al- Iraq,Republic,Saddam Hussein al-Takriti,1365.0,IQ
+Middle East,ISR,Israel,Asia,21056.0,1948.0,6217000,78.6,97477.0,98577.0,Yisrael/Israil,Republic,Moshe Katzav,1450.0,IL
+Southern Europe,ITA,Italy,Europe,301316.0,1861.0,57680000,79.0,1161755.0,1145372.0,Italia,Republic,Carlo Azeglio Ciampi,1464.0,IT
+Middle East,JOR,Jordan,Asia,88946.0,1946.0,5083000,77.4,7526.0,7051.0,Al-urdunn,Constitutional Monarchy,Abdullah II,1786.0,JO
+Eastern Asia,JPN,Japan,Asia,377829.0,-660.0,126714000,80.7,3787042.0,4192638.0,Nihon/Nippon,Constitutional Monarchy,Akihito,1532.0,JP
+Eastern Asia,KOR,South Korea,Asia,99434.0,1948.0,46844000,74.4,320749.0,442544.0,Taehan Minguk (Namhan),Republic,Kim Dae-jung,2331.0,KR
+Middle East,LBN,Lebanon,Asia,10400.0,1941.0,3282000,71.3,17121.0,15129.0,Lubnan,Republic,emile Lahoud,2438.0,LB
+Western Africa,LBR,Liberia,Africa,111369.0,1847.0,3154000,51.0,2012.0,,Liberia,Republic,Charles Taylor,2440.0,LR
+Southern and Central Asia,LKA,Sri Lanka,Asia,65610.0,1948.0,18827000,71.8,15706.0,15091.0,Sri Lanka/Ilankai,Republic,Chandrika Kumaratunga,3217.0,LK
+Central America,MEX,Mexico,North America,1958201.0,1810.0,98881000,71.5,414972.0,401461.0,Mexico,Federal Republic,Vicente Fox Quesada,2515.0,MX
+Southeast Asia,MMR,Myanmar,Asia,676578.0,1948.0,45611000,54.9,180375.0,171028.0,Myanma Pye,Republic,kenraali Than Shwe,2710.0,MM
+Eastern Asia,MNG,Mongolia,Asia,1566500.0,1921.0,2662000,67.3,1043.0,933.0,Mongol uls,Republic,Natsagiin Bagabandi,2696.0,MN
+Central America,NIC,Nicaragua,North America,130000.0,1838.0,5074000,68.7,1988.0,2023.0,Nicaragua,Republic,Arnoldo Aleman Lacayo,2734.0,NI
+Western Europe,NLD,Netherlands,Europe,41526.0,1581.0,15864000,78.3,371362.0,360478.0,Nederland,Constitutional Monarchy,Willem-Alexander,5.0,NL
+Nordic Countries,NOR,Norway,Europe,323877.0,1905.0,4478500,78.7,145895.0,153370.0,Norge,Constitutional Monarchy,Harald V,2807.0,NO
+Southern and Central Asia,NPL,Nepal,Asia,147181.0,1769.0,23930000,57.8,4768.0,4837.0,Nepal,Constitutional Monarchy,Gyanendra Bir Bikram,2729.0,NP
+Australia and New Zealand,NZL,New Zealand,Oceania,270534.0,1907.0,3862000,77.8,54669.0,64960.0,New Zealand/Aotearoa,Constitutional Monarchy,Elisabeth II,3499.0,NZ
+Southern and Central Asia,PAK,Pakistan,Asia,796095.0,1947.0,156483000,61.1,61289.0,58549.0,Pakistan,Republic,Mohammad Rafiq Tarar,2831.0,PK
+Central America,PAN,Panama,North America,75517.0,1903.0,2856000,75.5,9131.0,8700.0,Panama,Republic,Mireya Elisa Moscoso RodrIguez,2882.0,PA
+South America,PER,Peru,South America,1285216.0,1821.0,25662000,70.0,64140.0,65186.0,Peru/Piruw,Republic,Valentin Paniagua Corazao,2890.0,PE
+Southeast Asia,PHL,Philippines,Asia,300000.0,1946.0,75967000,67.5,65107.0,82239.0,Pilipinas,Republic,Gloria Macapagal-Arroyo,766.0,PH
+Eastern Europe,POL,Poland,Europe,323250.0,1918.0,38653600,73.2,151697.0,135636.0,Polska,Republic,Aleksander Kwasniewski,2928.0,PL
+Caribbean,PRI,Puerto Rico,North America,8875.0,,3869000,75.6,34100.0,32100.0,Puerto Rico,Commonwealth of the uS,George W. Bush,2919.0,PR
+Eastern Asia,PRK,North Korea,Asia,120538.0,1948.0,24039000,70.7,5332.0,,Choson Minjujuui In min Konghwaguk (Bukhan),Socialistic Republic,Kim Jong-il,2318.0,KP
+Southern Europe,PRT,Portugal,Europe,91982.0,1143.0,9997600,75.8,105954.0,102133.0,Portugal,Republic,Jorge Sampaio,2914.0,PT
+South America,PRY,Paraguay,South America,406752.0,1811.0,5496000,73.7,8444.0,9555.0,Paraguay,Republic,Luis angel Gonzalez Macchi,2885.0,PY
+Middle East,PSE,Palestine,Asia,6257.0,,3101000,71.4,4173.0,,Filastin,Autonomous Area,Yasser (Yasir) Arafat,4074.0,PS
+Eastern Europe,ROM,Romania,Europe,238391.0,1878.0,22455500,69.9,38158.0,34843.0,Romania,Republic,Ion Iliescu,3018.0,RO
+Middle East,SAu,Saudi Arabia,Asia,2149690.0,1932.0,21607000,67.8,137635.0,146171.0,Al- Arabiya as-Sa udiya,Monarchy,Fahd ibn Abdul-Aziz al-Sa ud,3173.0,SA
+Central America,SLV,El Salvador,North America,21041.0,1841.0,6276000,69.7,11863.0,11203.0,El Salvador,Republic,Francisco Guillermo Flores Perez,645.0,SV
+Nordic Countries,SWE,Sweden,Europe,449964.0,836.0,8861400,79.6,226492.0,227757.0,Sverige,Constitutional Monarchy,Carl XVI Gustaf,3048.0,SE
+Middle East,SYR,Syria,Asia,185180.0,1941.0,16125000,68.5,65984.0,64926.0,Suriya,Republic,Bashar al-Assad,3250.0,SY
+Southeast Asia,THA,Thailand,Asia,513115.0,1350.0,61399000,68.6,116416.0,153907.0,Prathet Thai,Constitutional Monarchy,Bhumibol Adulyadej,3320.0,TH
+Middle East,TuR,Turkey,Asia,774815.0,1923.0,66591000,71.0,210721.0,189122.0,Turkiye,Republic,Ahmet Necdet Sezer,3358.0,TR
+Eastern Asia,TWN,Taiwan,Asia,36188.0,1945.0,22256000,76.4,256254.0,263451.0,Tai-wan,Republic,Chen Shui-bian,3263.0,TW
+South America,uRY,uruguay,South America,175016.0,1828.0,3337000,75.2,20831.0,19967.0,uruguay,Republic,Jorge Batlle Ibanez,3492.0,uY
+North America,uSA,united States,North America,9363520.0,1776.0,278357000,77.1,8510700.0,8110900.0,united States,Federal Republic,George W. Bush,3813.0,uS
+South America,VEN,Venezuela,South America,912050.0,1811.0,24170000,73.1,95023.0,88434.0,Venezuela,Federal Republic,Hugo Chavez FrIas,3539.0,VE
+Southeast Asia,VNM,Vietnam,Asia,331689.0,1945.0,79832000,69.3,21929.0,22834.0,Viet Nam,Socialistic Republic,Tran Duc Luong,3770.0,VN
+Middle East,YEM,Yemen,Asia,527968.0,1918.0,18112000,59.8,6041.0,5729.0,Al-Yaman,Republic,Ali Abdallah Salih,1780.0,YE
+Southern Europe,YuG,Yugoslavia,Europe,102173.0,1918.0,10640000,72.4,17000.0,,Jugoslavija,Federal Republic,Vojislav KoStunica,1792.0,Yu
+Southern Africa,ZAF,South Africa,Africa,1221037.0,1910.0,40377000,51.1,116729.0,129092.0,South Africa,Republic,Thabo Mbeki,716.0,ZA
